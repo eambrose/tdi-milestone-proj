@@ -1,3 +1,10 @@
+## Ellen's Milestone Project - TDI Spring 2016
+
+I used the provided template to create a heroku app which plots closing price for the last
+month for a specified stock.
+
+Here's the original documentation of the template:
+
 # Flask on Heroku
 
 This project is intended to help you tie together some important concepts and
